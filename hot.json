@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.net/://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/18.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JAR/18.jar",
   "lives": [
     {
       "group": "redirect",
@@ -23,7 +23,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/色花堂.json",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/色花堂.json",
       "jar": "./lib/XBPQ_0111.jar"
     },
     {
@@ -34,7 +34,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/黄仓库.json"
+      "ext": "https://ghproxy.net/https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/黄仓库.json"
     },
     {
       "key": "csp_xBPQ_新香蕉中文字幕",
@@ -44,7 +44,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉中文字幕.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉中文字幕.json"
     },
     {
       "key": "csp_xBPQ_新香蕉久久热",
@@ -54,7 +54,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉久久热.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉久久热.json"
     },
     {
       "key": "csp_xBPQ_新香蕉废柴网",
@@ -64,7 +64,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉废柴网.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉废柴网.json"
     },
     {
       "key": "csp_xBPQ_新香蕉国产传媒",
@@ -74,7 +74,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉国产传媒.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉国产传媒.json"
     },
     {
       "key": "csp_xBPQ_新香蕉超清资源",
@@ -84,7 +84,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉超清资源.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉超清资源.json"
     },
     {
       "key": "csp_xBPQ_新香蕉麻豆女优",
@@ -94,7 +94,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉麻豆女优.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉麻豆女优.json"
     },
     {
       "key": "csp_xBPQ_新香蕉实时直播",
@@ -104,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉实时直播.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉实时直播.json"
     },
     {
       "key": "csp_xBPQ_新香蕉AV解说",
@@ -114,7 +114,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉AV解说.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/新香蕉AV解说.json"
     },
     {
       "key": "csp_xBPQ_聚优直播",
@@ -124,7 +124,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/聚优直播.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/聚优直播.json"
     },
     {
       "key": "csp_xBPQ_实时直播",
@@ -134,7 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/实时直播.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/实时直播.json"
     },
     {
       "key": "csp_xBPQ_叫床吧",
@@ -144,7 +144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/叫床吧.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/叫床吧.json"
     },
     {
       "key": "csp_xBPQ_黄瓜TV",
@@ -154,7 +154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/黄瓜TV.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/黄瓜TV.json"
     },
     {
       "key": "csp_xBPQ_banan",
@@ -164,7 +164,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/banan.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/banan.json"
     },
     {
       "key": "csp_xBPQ_西瓜影视",
@@ -174,7 +174,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/西瓜影视.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/西瓜影视.json"
     },
     {
       "key": "csp_xBPQ-爱看影院",
@@ -184,7 +184,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/爱看影院.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/爱看影院.json"
     },
     {
       "key": "csp_xBPQ-四虎影院",
@@ -194,7 +194,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/四虎影院.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/四虎影院.json"
     },
     {
       "key": "csp_xBPQ_GAOAA",
@@ -204,7 +204,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/GAOAA.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/GAOAA.json"
     },
     {
       "key": "csp_xBPQ_麻豆映画",
@@ -214,7 +214,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/麻豆映画.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/麻豆映画.json"
     },
     {
       "key": "csp_xBPQ_AVideo",
@@ -224,7 +224,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/AVideo.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/AVideo.json"
     },
     {
       "key": "csp_xBPQ_香蕉视频",
@@ -234,7 +234,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/香蕉视频.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/香蕉视频.json"
     },
     {
       "key": "csp_xBPQ_性欲轮回",
@@ -244,7 +244,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/性欲轮回.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/性欲轮回.json"
     },
     {
       "key": "csp_xBPQ_性欲轮回[分类]",
@@ -254,7 +254,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/性欲轮回[分类].json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/性欲轮回[分类].json"
     },
     {
       "key": "csp_xBPQ_右手影院",
@@ -264,7 +264,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/右手影院.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/xBPQ/右手影院.json"
     },
     {
       "key": "csp_XYQHiker_香蕉",
@@ -274,42 +274,42 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/香蕉.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XYQH/香蕉.json"
     },
     {
       "key": "drpy_js_猫了个咪",
       "name": "猫了个咪[DRPY18]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/猫了个咪.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/猫了个咪.js"
     },
     {
       "key": "drpy_js_吸瓜",
       "name": "吸瓜[DRPY18]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/吸瓜.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/吸瓜.js"
     },
     {
       "key": "drpy_js_黄瓜TV",
       "name": "黄瓜TV[DRPY18]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/黄瓜TV.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/黄瓜TV.js"
     },
     {
       "key": "drpy_js_banan",
       "name": "banan[DRPY18]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/banan.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/banan.js"
     },
     {
       "key": "drpy_js_18av",
       "name": "18av[DRPY18]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/18av.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/18av.js"
     },
     {
       "key": "csp_biubiu_四虎影院",
@@ -319,7 +319,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XB四虎影院.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XB四虎影院.json"
     },
     {
       "key": "csp_biubiu_爱看影院",
@@ -329,7 +329,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XB爱看影院.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XB爱看影院.json"
     },
     {
       "key": "csp_biubiu_GAOAA",
@@ -339,7 +339,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XBGAOAA.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XBGAOAA.json"
     },
     {
       "key": "csp_biubiu_香蕉视频",
@@ -349,7 +349,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XB香蕉视频.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/XB香蕉视频.json"
     },
     {
       "key": "ASMR",
